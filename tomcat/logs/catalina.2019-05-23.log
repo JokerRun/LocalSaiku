@@ -1,0 +1,251 @@
+23-May-2019 15:41:44.440 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+23-May-2019 15:41:44.445 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+23-May-2019 15:41:44.446 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+23-May-2019 15:41:44.446 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-May-2019 15:41:44.446 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+23-May-2019 15:41:44.446 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-May-2019 15:41:44.446 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\apps\Java\jdk1.8.0_191\jre
+23-May-2019 15:41:44.446 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+23-May-2019 15:41:44.447 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-May-2019 15:41:44.447 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat
+23-May-2019 15:41:44.447 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat
+23-May-2019 15:41:44.447 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF8
+23-May-2019 15:41:44.448 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat\conf\logging.properties
+23-May-2019 15:41:44.448 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-May-2019 15:41:44.448 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-May-2019 15:41:44.448 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+23-May-2019 15:41:44.449 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms512m
+23-May-2019 15:41:44.449 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx768m
+23-May-2019 15:41:44.449 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxPermSize=256m
+23-May-2019 15:41:44.449 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+23-May-2019 15:41:44.450 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.tomcat.util.buf.UDecoder.ALLOW_ENCODED_SLASH=true
+23-May-2019 15:41:44.450 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+23-May-2019 15:41:44.450 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+23-May-2019 15:41:44.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat
+23-May-2019 15:41:44.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat
+23-May-2019 15:41:44.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat\temp
+23-May-2019 15:41:44.451 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\apps\Java\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\apps\Git\cmd;C:\Program Files\Pandoc\;D:\apps\Java\jdk1.8.0_191\bin\;D:\apps\Java\apache-maven-3.6.0\bin\;C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python37\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Local\atom\bin;D:\apps\JetBrains\DataGrip 2019.1\bin;;D:\apps\JetBrains\IntelliJ IDEA 2019.1.2\bin;;.]
+23-May-2019 15:41:44.572 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-May-2019 15:41:44.720 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+23-May-2019 15:41:44.728 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+23-May-2019 15:41:44.731 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+23-May-2019 15:41:44.732 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 657 ms
+23-May-2019 15:41:44.764 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-May-2019 15:41:44.764 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+23-May-2019 15:41:44.773 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat\webapps\ROOT]
+23-May-2019 15:41:45.077 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat\webapps\ROOT] has finished in [304] ms
+23-May-2019 15:41:45.078 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat\webapps\saiku]
+23-May-2019 15:41:45.085 警告 [main] org.apache.catalina.startup.SetContextPropertiesRule.begin [SetContextPropertiesRule]{Context} Setting property 'docbase' to 'webapps/saiku/' did not find a matching property.
+23-May-2019 15:41:45.089 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Context/Manager} Setting property 'debug' to '0' did not find a matching property.
+23-May-2019 15:41:45.090 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Context/Manager} Setting property 'distributable' to 'false' did not find a matching property.
+23-May-2019 15:42:00.527 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+23-May-2019 15:42:47.139 信息 [main] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  org.saiku.web
+  com.fasterxml.jackson.jaxrs.json
+23-May-2019 15:43:39.258 信息 [main] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Root resource classes found:
+  class org.saiku.web.rest.resources.StatisticsResource
+  class org.saiku.web.rest.resources.SessionResource
+  class org.saiku.web.rest.resources.InfoResource
+  class org.saiku.web.rest.resources.License
+  class org.saiku.web.rest.resources.FilterRepositoryResource
+  class org.saiku.web.rest.resources.QueryResource
+  class org.saiku.web.rest.resources.ExporterResource
+  class org.saiku.web.rest.resources.Query2Resource
+  class org.saiku.web.rest.resources.DataSourceResource
+  class org.saiku.web.rest.resources.OlapDiscoverResource
+  class org.saiku.web.rest.resources.AdminResource
+  class org.saiku.web.rest.resources.BasicRepositoryResource2
+23-May-2019 15:43:39.259 信息 [main] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Provider classes found:
+  class com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider
+  class com.fasterxml.jackson.jaxrs.json.JsonParseExceptionMapper
+  class com.fasterxml.jackson.jaxrs.json.JacksonJaxbJsonProvider
+  class com.fasterxml.jackson.jaxrs.json.JsonMappingExceptionMapper
+23-May-2019 15:43:39.433 信息 [main] com.sun.jersey.spi.spring.container.servlet.SpringServlet.getContext Using default applicationContext
+23-May-2019 15:43:39.435 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, basicRepositoryResource2, of type org.saiku.web.rest.resources.BasicRepositoryResource2 as a root resource class
+23-May-2019 15:43:39.436 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, queryResource, of type org.saiku.web.rest.resources.QueryResource as a root resource class
+23-May-2019 15:43:39.436 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, infoResource, of type org.saiku.web.rest.resources.InfoResource as a root resource class
+23-May-2019 15:43:39.436 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, adminResource, of type org.saiku.web.rest.resources.AdminResource as a root resource class
+23-May-2019 15:43:39.436 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, dataSourceResource, of type org.saiku.web.rest.resources.DataSourceResource as a root resource class
+23-May-2019 15:43:39.437 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, exporterResource, of type org.saiku.web.rest.resources.ExporterResource as a root resource class
+23-May-2019 15:43:39.437 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, statisticsResource, of type org.saiku.web.rest.resources.StatisticsResource as a root resource class
+23-May-2019 15:43:39.437 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, olapDiscoverResource, of type org.saiku.web.rest.resources.OlapDiscoverResource as a root resource class
+23-May-2019 15:43:39.438 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, sessionResource, of type org.saiku.web.rest.resources.SessionResource as a root resource class
+23-May-2019 15:43:39.438 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, license, of type org.saiku.web.rest.resources.License as a root resource class
+23-May-2019 15:43:39.438 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, filterRepositoryResource, of type org.saiku.web.rest.resources.FilterRepositoryResource as a root resource class
+23-May-2019 15:43:39.439 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, query2Resource, of type org.saiku.web.rest.resources.Query2Resource as a root resource class
+23-May-2019 15:43:39.439 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, adminBean, of type org.saiku.web.rest.resources.AdminResource as a root resource class
+23-May-2019 15:43:39.440 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, olapDiscoverBean, of type org.saiku.web.rest.resources.OlapDiscoverResource as a root resource class
+23-May-2019 15:43:39.440 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, queryResource2, of type org.saiku.web.rest.resources.Query2Resource as a root resource class
+23-May-2019 15:43:39.441 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, repository2bean, of type org.saiku.web.rest.resources.BasicRepositoryResource2 as a root resource class
+23-May-2019 15:43:39.442 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, filterRepositoryBean, of type org.saiku.web.rest.resources.FilterRepositoryResource as a root resource class
+23-May-2019 15:43:39.442 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, exporterBean, of type org.saiku.web.rest.resources.ExporterResource as a root resource class
+23-May-2019 15:43:39.443 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, licenseBean, of type org.saiku.web.rest.resources.License as a root resource class
+23-May-2019 15:43:39.450 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, statsBean, of type org.saiku.web.rest.resources.StatisticsResource as a root resource class
+23-May-2019 15:43:39.464 信息 [main] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 03:25 AM'
+23-May-2019 15:43:40.860 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat\webapps\saiku] has finished in [115,782] ms
+23-May-2019 15:43:40.874 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-May-2019 15:43:40.903 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+23-May-2019 15:43:40.913 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 116181 ms
+23-May-2019 15:45:19.884 严重 [http-nio-8080-exec-7] org.apache.catalina.session.PersistentManagerBase.removeSession Exception removing session  Unable to delete file [D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat\work\Catalina\localhost\saiku\.\9941D3896FE6E9B9C03DDC41902123D7.session] which is no longer required
+ java.io.IOException: Unable to delete file [D:\BaiduNetdiskDownload\saiku-latest\saiku-server\tomcat\work\Catalina\localhost\saiku\.\9941D3896FE6E9B9C03DDC41902123D7.session] which is no longer required
+	at org.apache.catalina.session.FileStore.remove(FileStore.java:269)
+	at org.apache.catalina.session.PersistentManagerBase.removeSession(PersistentManagerBase.java:598)
+	at org.apache.catalina.session.PersistentManagerBase.remove(PersistentManagerBase.java:576)
+	at org.apache.catalina.session.ManagerBase.remove(ManagerBase.java:721)
+	at org.apache.catalina.session.StandardSession.setId(StandardSession.java:352)
+	at org.apache.catalina.session.ManagerBase.changeSessionId(ManagerBase.java:770)
+	at org.apache.catalina.session.ManagerBase.changeSessionId(ManagerBase.java:757)
+	at org.apache.catalina.connector.Request.changeSessionId(Request.java:2636)
+	at org.apache.catalina.connector.RequestFacade.changeSessionId(RequestFacade.java:931)
+	at javax.servlet.http.HttpServletRequestWrapper.changeSessionId(HttpServletRequestWrapper.java:259)
+	at javax.servlet.http.HttpServletRequestWrapper.changeSessionId(HttpServletRequestWrapper.java:259)
+	at javax.servlet.http.HttpServletRequestWrapper.changeSessionId(HttpServletRequestWrapper.java:259)
+	at javax.servlet.http.HttpServletRequestWrapper.changeSessionId(HttpServletRequestWrapper.java:259)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:202)
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:187)
+	at org.springframework.security.web.authentication.session.ChangeSessionIdAuthenticationStrategy.applySessionFixation(ChangeSessionIdAuthenticationStrategy.java:55)
+	at org.springframework.security.web.authentication.session.AbstractSessionFixationProtectionStrategy.onAuthentication(AbstractSessionFixationProtectionStrategy.java:87)
+	at org.springframework.security.web.authentication.session.ChangeSessionIdAuthenticationStrategy.onAuthentication(ChangeSessionIdAuthenticationStrategy.java:32)
+	at org.springframework.security.web.authentication.session.CompositeSessionAuthenticationStrategy.onAuthentication(CompositeSessionAuthenticationStrategy.java:88)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:83)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:168)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:48)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:213)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter.doFilter(DefaultLoginPageGeneratingFilter.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:205)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:120)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:53)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:213)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:176)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:344)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:261)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:494)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+23-May-2019 16:01:55.973 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+23-May-2019 16:01:55.976 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+23-May-2019 16:01:55.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+23-May-2019 16:01:55.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-May-2019 16:01:55.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+23-May-2019 16:01:55.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-May-2019 16:01:55.978 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\apps\Java\jdk1.8.0_191\jre
+23-May-2019 16:01:55.978 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+23-May-2019 16:01:55.978 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-May-2019 16:01:55.978 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\apps\saiku-latest\saiku-server\tomcat
+23-May-2019 16:01:55.978 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apps\saiku-latest\saiku-server\tomcat
+23-May-2019 16:01:55.979 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF8
+23-May-2019 16:01:55.979 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\apps\saiku-latest\saiku-server\tomcat\conf\logging.properties
+23-May-2019 16:01:55.979 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-May-2019 16:01:55.979 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-May-2019 16:01:55.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+23-May-2019 16:01:55.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms512m
+23-May-2019 16:01:55.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx768m
+23-May-2019 16:01:55.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxPermSize=256m
+23-May-2019 16:01:55.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+23-May-2019 16:01:55.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.tomcat.util.buf.UDecoder.ALLOW_ENCODED_SLASH=true
+23-May-2019 16:01:55.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+23-May-2019 16:01:55.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+23-May-2019 16:01:55.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\apps\saiku-latest\saiku-server\tomcat
+23-May-2019 16:01:55.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apps\saiku-latest\saiku-server\tomcat
+23-May-2019 16:01:55.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\apps\saiku-latest\saiku-server\tomcat\temp
+23-May-2019 16:01:55.983 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\apps\Java\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\apps\Git\cmd;C:\Program Files\Pandoc\;D:\apps\Java\jdk1.8.0_191\bin\;D:\apps\Java\apache-maven-3.6.0\bin\;C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python37\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Local\atom\bin;D:\apps\JetBrains\DataGrip 2019.1\bin;D:\apps\JetBrains\IntelliJ IDEA 2019.1.2\bin;.]
+23-May-2019 16:01:56.101 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-May-2019 16:01:56.261 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+23-May-2019 16:01:56.269 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+23-May-2019 16:01:56.271 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+23-May-2019 16:01:56.272 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 679 ms
+23-May-2019 16:01:56.304 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-May-2019 16:01:56.304 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+23-May-2019 16:01:56.313 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apps\saiku-latest\saiku-server\tomcat\webapps\ROOT]
+23-May-2019 16:01:56.759 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+23-May-2019 16:01:56.831 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apps\saiku-latest\saiku-server\tomcat\webapps\ROOT] has finished in [517] ms
+23-May-2019 16:01:56.832 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apps\saiku-latest\saiku-server\tomcat\webapps\saiku]
+23-May-2019 16:01:56.841 警告 [main] org.apache.catalina.startup.SetContextPropertiesRule.begin [SetContextPropertiesRule]{Context} Setting property 'docbase' to 'webapps/saiku/' did not find a matching property.
+23-May-2019 16:01:56.847 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Context/Manager} Setting property 'debug' to '0' did not find a matching property.
+23-May-2019 16:01:56.847 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Context/Manager} Setting property 'distributable' to 'false' did not find a matching property.
+23-May-2019 16:02:12.820 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+23-May-2019 16:02:21.359 信息 [main] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  org.saiku.web
+  com.fasterxml.jackson.jaxrs.json
+23-May-2019 16:02:21.421 信息 [main] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Root resource classes found:
+  class org.saiku.web.rest.resources.BasicRepositoryResource2
+  class org.saiku.web.rest.resources.SessionResource
+  class org.saiku.web.rest.resources.OlapDiscoverResource
+  class org.saiku.web.rest.resources.StatisticsResource
+  class org.saiku.web.rest.resources.License
+  class org.saiku.web.rest.resources.InfoResource
+  class org.saiku.web.rest.resources.AdminResource
+  class org.saiku.web.rest.resources.QueryResource
+  class org.saiku.web.rest.resources.DataSourceResource
+  class org.saiku.web.rest.resources.FilterRepositoryResource
+  class org.saiku.web.rest.resources.ExporterResource
+  class org.saiku.web.rest.resources.Query2Resource
+23-May-2019 16:02:21.421 信息 [main] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Provider classes found:
+  class com.fasterxml.jackson.jaxrs.json.JsonParseExceptionMapper
+  class com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider
+  class com.fasterxml.jackson.jaxrs.json.JacksonJaxbJsonProvider
+  class com.fasterxml.jackson.jaxrs.json.JsonMappingExceptionMapper
+23-May-2019 16:02:21.552 信息 [main] com.sun.jersey.spi.spring.container.servlet.SpringServlet.getContext Using default applicationContext
+23-May-2019 16:02:21.555 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, basicRepositoryResource2, of type org.saiku.web.rest.resources.BasicRepositoryResource2 as a root resource class
+23-May-2019 16:02:21.555 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, queryResource, of type org.saiku.web.rest.resources.QueryResource as a root resource class
+23-May-2019 16:02:21.555 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, infoResource, of type org.saiku.web.rest.resources.InfoResource as a root resource class
+23-May-2019 16:02:21.556 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, adminResource, of type org.saiku.web.rest.resources.AdminResource as a root resource class
+23-May-2019 16:02:21.556 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, dataSourceResource, of type org.saiku.web.rest.resources.DataSourceResource as a root resource class
+23-May-2019 16:02:21.556 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, exporterResource, of type org.saiku.web.rest.resources.ExporterResource as a root resource class
+23-May-2019 16:02:21.556 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, statisticsResource, of type org.saiku.web.rest.resources.StatisticsResource as a root resource class
+23-May-2019 16:02:21.556 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, olapDiscoverResource, of type org.saiku.web.rest.resources.OlapDiscoverResource as a root resource class
+23-May-2019 16:02:21.556 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, sessionResource, of type org.saiku.web.rest.resources.SessionResource as a root resource class
+23-May-2019 16:02:21.557 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, license, of type org.saiku.web.rest.resources.License as a root resource class
+23-May-2019 16:02:21.557 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, filterRepositoryResource, of type org.saiku.web.rest.resources.FilterRepositoryResource as a root resource class
+23-May-2019 16:02:21.557 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, query2Resource, of type org.saiku.web.rest.resources.Query2Resource as a root resource class
+23-May-2019 16:02:21.557 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, adminBean, of type org.saiku.web.rest.resources.AdminResource as a root resource class
+23-May-2019 16:02:21.558 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, olapDiscoverBean, of type org.saiku.web.rest.resources.OlapDiscoverResource as a root resource class
+23-May-2019 16:02:21.558 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, queryResource2, of type org.saiku.web.rest.resources.Query2Resource as a root resource class
+23-May-2019 16:02:21.558 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, repository2bean, of type org.saiku.web.rest.resources.BasicRepositoryResource2 as a root resource class
+23-May-2019 16:02:21.558 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, filterRepositoryBean, of type org.saiku.web.rest.resources.FilterRepositoryResource as a root resource class
+23-May-2019 16:02:21.558 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, exporterBean, of type org.saiku.web.rest.resources.ExporterResource as a root resource class
+23-May-2019 16:02:21.559 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, licenseBean, of type org.saiku.web.rest.resources.License as a root resource class
+23-May-2019 16:02:21.559 信息 [main] com.sun.jersey.spi.spring.container.SpringComponentProviderFactory.registerSpringBeans Registering Spring bean, statsBean, of type org.saiku.web.rest.resources.StatisticsResource as a root resource class
+23-May-2019 16:02:21.564 信息 [main] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 03:25 AM'
+23-May-2019 16:02:23.446 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apps\saiku-latest\saiku-server\tomcat\webapps\saiku] has finished in [26,614] ms
+23-May-2019 16:02:23.450 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-May-2019 16:02:23.462 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+23-May-2019 16:02:23.466 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 27193 ms
